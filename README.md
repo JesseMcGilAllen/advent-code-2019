@@ -1,10 +1,6 @@
 # advent-code-2019
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+This is a repository to hold the work I do towards advent of code. 
 
 ## License
 
